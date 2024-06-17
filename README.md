@@ -1,4 +1,4 @@
-# **QUEEN AMDI💃🏻❤️** - _A Javascript WhatsApp User Bot_
+# **QUEEN AMDI WA BOT CREATE BY MR DULAN** - _A Javascript WhatsApp User Bot_
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover](assets/cover.jpg)
@@ -33,8 +33,7 @@
 
 **[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aURC3Rie3l8ulR)**
 
-## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
-
+## 🐝 Queen Amdi Team - A.N.Tech *(NEW UPDATE 2024)
 | <a href="https://amdaniwasa.com"><img src="https://avatars.githubusercontent.com/u/83172207?v=4" width=80 height=80></a> | <a href="https://sasmitha-ashinsana.vercel.app/"><img src="https://avatars.githubusercontent.com/u/89065560?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/88334967?v=4" width=80 height=80></a> |
 |---|---|---|
 | **[Achintha Bandara](https://github.com/BlackAmda)**</br>Founder & Developer</br>*[Black Amda]* | **[Sasmitha Ashinsana](https://github.com/sasmeee)**</br>Co-Admin/Developer | **[Lil Luzi](https://github.com/Sajiya2002)**</br>User Supporter |
@@ -43,8 +42,7 @@
 
 
 ## License
-This project is protected by the `GNU General Public License v3.0.`
-Do not edit copyright messages!
+This project is protected by the `TEAM YKUSA GENERAL PUBLIC LICESE v3.0. G
 
 ## Disclaimer
 `WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
