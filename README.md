@@ -36,7 +36,7 @@ hr bot for WhatsApp that allowing you to get done so many tasks. This project ma
 |---|---|---|
 | **[Achintha Bandara](https://github.com/BlackAmda)**</br>Founder & Developer</br>*[Black Amda]* | **[Sasmitha Ashinsana](https://github.com/sasmeee)**</br>Co-Admin/Developer | **[Lil Luzi](https://github.com/Sajiya2002)**</br>User Supporter |
 | <a href="https://dinaaofficial.github.io/dina-official/"><img src="https://avatars.githubusercontent.com/u/85923514?v=4" width=80 height=80></a> | <https://telegra.ph/file/e6b716ef4bca82b0a2de0.jpg hsrc="https://avatars.githubusercontent.com/u/89117663?v=4" width=80 height=80></a> |  **Kapaya**</br>Group Management | |
-| **[Mr.Dula](https://github.com/Dinaaofficial)**</br>Graphic Designer | **[JokaTamah](https://github.com/JokaTamah)**</br>Bug Tester | **Zeus**</br>Group Management |
+| **[Mr.Dula](https://github.com/Dinaaofficial)**</br>Graphic Designer | **[DULAN](https://github.com/JokaTamah)**</br>Bug Tester | **Zeus**</br>Group Management |
 
 
 ## License
